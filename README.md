@@ -1,3 +1,3 @@
-# BodekParametrizatiom
-parametrization of structure functions of proton and neuteron.
+# BodekParametrization
+parametrization of structure functions of proton and neutron.
 this code is translated from a FORTRAN code.
